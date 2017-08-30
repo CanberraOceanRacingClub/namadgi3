@@ -9,17 +9,23 @@ found in Pittwater.
 The purpose of this note is to alert Members to a number of navigational challenges that may be met while sailing Namadgi 3 in
 and around Bateman's Bay
 
+## Tidal waters
+The maximal tidal range at Bateman's Bay is around 2.0m -- strong currents result and there are many shallow areas. 
+Skippers must always be aware of the up to date tidal predictions and take these into account while navigating the Bay and
+the Clyde River.
+
 ## The Clyde River Bar
 
-This bar is located about 200m off the end of the rock wall. It is an extended area of shallows with a sandy bottom.
+This river bar is located about 200m off the end of the rock wall. It is an extended area of shallows with a sandy bottom.
+It's charted depth is only 0.8m however after recent dredging locals report the charted depth to be ????m (we need to find out what this is)
 
 It's shallow depth and the likelyhood of breaking waves in heavy seas means that the bar must be treated with the utmost respect.
 
-* Approach and depart the bar along the marked leads
 * Check tides to ensure adequate water for N3's 2.2m draft
+* Approach and depart the bar along the marked leads
 * All crew to wear PFDs while crossing the bar
 * If in doubt do not cross the bar
-* I unable to cross the bar when returning from sea, pick up a mooring at North Head (or anchor behind Snapper Island) and
+* If unable to cross the bar when returning from sea, pick up a mooring at North Head (or anchor behind Snapper Island) and
 wait for conditions to improve
 
 ## Open Waters of the Bay
