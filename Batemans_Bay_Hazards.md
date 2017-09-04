@@ -17,16 +17,27 @@ the Clyde River.
 ## The Clyde River Bar
 
 This river bar is located about 200m off the end of the rock wall. It is an extended area of shallows with a sandy bottom.
-It's charted depth is only 0.8m however after recent dredging locals report the charted depth to be ????m (we need to find out what this is)
+It's charted depth is only 0.8m however after recent dredging locals report the charted depth to be 1.2m
 
 It's shallow depth and the likelyhood of breaking waves in heavy seas means that the bar must be treated with the utmost respect.
 
 * Check tides to ensure adequate water for N3's 2.2m draft
-* Approach and depart the bar along the marked leads
-* All crew to wear PFDs while crossing the bar
+* Approach and depart the bar along the marked leads -- see notes below
+* NSW law requires ALL crew to wear PFDs while crossing the bar in either direction. This is policed 
+stringently and there is a big fine for non compliance
 * If in doubt do not cross the bar
 * If unable to cross the bar when returning from sea, pick up a mooring at North Head (or anchor behind Snapper Island) and
 wait for conditions to improve
+
+The bar is generally well marked but does move. Check with a local to see if the leads are set correctly before
+crossing. Also check to see if depth of bar has changed (Marina manager Damon will be very helpful). There is also a 
+[bar webcam](http://www.rms.nsw.gov.au/maritime/using-waterways/web-cameras/batemans-bay.html) that may be worth checking before you venture out.
+
+## The leads
+
+The best passage across the Clyde River Bar is marked by leads which consist of two triangular panels that appear one above
+the other as you approach the rock wall. By the time you are abeam snapper Island you should have located these panels 
+and established yourself on the leads.  more here
 
 ## Open Waters of the Bay
 Pittwater is a well protected area in which we have enjoy cruising without significant seas or swell. Bateman's Bay is regarded 
@@ -88,6 +99,11 @@ the approach if in doubt
 
 Beware of the sand bars on the northern side of the river channel. These extend from the bar all the way up to the bridge.
 
+## Raising and lowering sails
+
+Sails should not be raised until over the bar on the way out and before crossing on the way in 
+unless you are confident of where the sandbar lies outside the marina entrance.
+
 ## Acheron Ledge
 
 Reef Point is located on the northern side of the bay just east of Maloneys Beach in Chain Bay. As the name suggests, a
@@ -110,6 +126,11 @@ Lives have been lost in this area. Please take extreme care.
 
 The area between Snapper Island and Observation point is shallow and dangerous -- stay clear.
 
+## Denham's Beach reef
+
+When travelling between Casey's Beach and Surf Beach stand well off shore to avoid the reef 
+which extends a consdierable distance from the point at the Northern end of Danham's beach.
+
 ## Black Rock
 
 This small but prominant island is a hazard located off Lilli Pilli at the southern end of the bay. The island is 
@@ -117,9 +138,34 @@ unlit and care must be taken when entering or leaving the bay (from/to) the sout
 
 ## Casey's Beach Reef
 
-Casey's Beach is a lovely spot to anchor for an while expecially in a westerly. Beware the reef off the beach. It is marked
+Casey's Beach is a lovely spot to anchor for an while expecially in a westerly. Beware the adminreef off the beach. It is marked
 with a West cardinal mark indicating clear water to the west. It is best to stay on the north side of the cardinal mark when
 approaching the beach. Generally stand well off the beach as the bottom shallows quickly.
+
+## Marine Rescue Batemans Bay
+
+Marine Rescue Batemans Bay ([website here](http://www.marinerescuebatemansbay.com/))is available on VHF 16 and can help with anything from emergency response to simple advise as to
+the state of the bar. Call them up on VHF16 or phone (02) 4472 3060 or mobile 0488 723 070.
+
+## SARWATCH
+
+Namadgi is registerd with Bateman Bay Marine Rescue and has been allocated the VHF radio callsign of ``BM ???``.
+
+Skippers taking Namadgi 3 out onto the Bay or further afield are *strongly advised* to log your intended passage with Marine
+Rescue Batemans Bay who will then maintain a SARWATCH on you until your return. If the event that you fail to return (or report daily) they
+will activate procedures to ensure your safety. This may include raising a full scale search and rescue incident.
+
+There is a SOP describing the procedure for reporting to Maritime Rescue.
+
+## Local contact numbers
+
+Include here some contact numbers.
+
+
+Richard. $45 --  
+Allocation BM number
+1.2m -- marinerescuebatemansbay.com.au
+phone app -- 
 
 
 
