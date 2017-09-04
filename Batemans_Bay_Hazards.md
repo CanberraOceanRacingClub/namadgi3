@@ -1,52 +1,116 @@
 # Navigating Batemans Bay
 
-Namadgi 3 will be located at the Batemans Bay Marina from September to December 2017. This affords CORC members the opportunity
-access the boat with a short drive from Canberra. It also offers some lovely cruising spots up and down the NSW coast.
+Namadgi 3 will be located at the Batemans Bay Marina from September to December 2017. This affords CORC 
+members the opportunity access the boat with a short drive from Canberra. It also offers some 
+lovely cruising spots up and down the NSW coast.
 
-The Committee has noted that Bateman's Bay is open waters and presents a range of challenges to skippers and crew beyond those 
-found in Pittwater.
+The Committee has noted that Bateman's Bay is open waters and presents a range of challenges to skippers and
+crew beyond those found in Pittwater.
 
-The purpose of this note is to alert Members to a number of navigational challenges that may be met while sailing Namadgi 3 in
-and around Bateman's Bay
+The purpose of these notes is to alert Members to a number of navigational challenges that may be met while 
+sailing Namadgi 3 in and around Bateman's Bay
+
+## Open Waters of the Bay
+
+Pittwater is a well protected area in which we have enjoy cruising without significant seas or swell.
+Bateman's Bay however, is classified 
+as open waters. It offers minimial protection from ocean swells and sea waves.
+
+* do not venture into the Bay if you are concerned about your open water seamanship skills
+* consider inviting a member who is experienced with Bay Sailing to help you on your first outing -- a few names
+are listed below
+* be prepared to deal with sea sickness amongst the crew
+* obtain weather forcasts and take early action to avoid being caught in a Southerly change or strong NE blow common
+during summer afternoons
+
 
 ## Tidal waters
 The maximal tidal range at Bateman's Bay is around 2.0m -- strong currents result and there are many shallow areas. 
 Skippers must always be aware of the up to date tidal predictions and take these into account while navigating the Bay and
-the Clyde River.
+the Clyde River. [Willey Weather tides](http://tides.willyweather.com.au/nsw/south-coast/snapper-island.html) 
+provides excellent information for tides at the Bay.
 
-## The Clyde River Bar
-
-This river bar is located about 200m off the end of the rock wall. It is an extended area of shallows with a sandy bottom.
-It's charted depth is only 0.8m however after recent dredging locals report the charted depth to be 1.2m
-
-It's shallow depth and the likelyhood of breaking waves in heavy seas means that the bar must be treated with the utmost respect.
-
-* Check tides to ensure adequate water for N3's 2.2m draft
-* Approach and depart the bar along the marked leads -- see notes below
-* NSW law requires ALL crew to wear PFDs while crossing the bar in either direction. This is policed 
-stringently and there is a big fine for non compliance
-* If in doubt do not cross the bar
-* If unable to cross the bar when returning from sea, pick up a mooring at North Head (or anchor behind Snapper Island) and
-wait for conditions to improve
-
-The bar is generally well marked but does move. Check with a local to see if the leads are set correctly before
-crossing. Also check to see if depth of bar has changed (Marina manager Damon will be very helpful). There is also a 
-[bar webcam](http://www.rms.nsw.gov.au/maritime/using-waterways/web-cameras/batemans-bay.html) that may be worth checking before you venture out.
 
 ## The leads
 
 The best passage across the Clyde River Bar is marked by leads which consist of two triangular panels that appear one above
-the other as you approach the rock wall. By the time you are abeam snapper Island you should have located these panels 
-and established yourself on the leads.  more here
+the other as you approach the rock wall. At night these panels are lit with conspicuous purple lights.
 
-## Open Waters of the Bay
-Pittwater is a well protected area in which we have enjoy cruising without significant seas or swell. Bateman's Bay is regarded 
-as open waters offering minimial protection from ocean swells and sea waves.
+The lead direction are 
 
-* do not venture into the Bay if you are concerned about your open water seamanship skills
-* be prepared to deal with sea sickness amongst the crew
-* obtain weather forcasts and take early action to avoid being caught in a Southerly change or strong NE blow common
-during summer afternoons
+* arrival: 280 deg T (or 267 deg M)
+* departure: 100 deg T (or 87 deg M)
+
+To be *on the leads* steer to maintain the two panels (or lights) one vertically above the other. If you drift from 
+the leads you will notice them separate. Quickly steer to reestablish the alignment
+
+## The Clyde River Bar
+
+This river bar is located about 200m off the end of the rock wall. It is an extended area of shallows with a sandy bottom.
+It's charted depth is only 0.8m however after recent dredging locals report the charted depth to be now 1.2m
+
+It's shallow depth and the likelyhood of breaking waves in heavy seas means that the bar must be treated with 
+the utmost respect.
+
+* If unable to cross the bar when returning from sea, pick up a mooring at North Head (or anchor behind Snapper Island) and
+wait for conditions to improve
+
+The bar is generally well marked but does move. Consult with a locals to see if the leads are set correctly before
+crossing. Also check to see if depth of bar has changed (Marina manager Damon will be very helpful). There is also a 
+[bar webcam](http://www.rms.nsw.gov.au/maritime/using-waterways/web-cameras/batemans-bay.html) that may be worth checking before you venture out.
+
+
+## Crossing the bar
+
+Any river bar crossing is a potentially dangerous activity and requires good seamanship from both skipper and Crew. Here 
+are some general rules about crossing the bar at Batemans Bay
+
+* Check tides to ensure adequate water for Namadgi 3's 2.2m draft
+* The bar is best cross at high tide, slack water 
+* Make allowance the height of the sea waves on the bar. A 1m sea across the bar will reduce the effective water depth by 0.5m
+* Approach and depart the bar along the marked leads -- see notes above
+* NSW law requires ALL crew to wear PFDs while crossing the bar in either direction. This is policed 
+stringently and there is a big fine for non compliance
+* If in doubt do not cross the bar
+
+Here are some precaustion specific to entering or leaving the river
+`
+### Entering the river 
+
+When approaching the Bar from Sea:
+
+* ensure everyone is wearing a PFD -- stiff fines apply and you will be prosecuted for any failures in this regard
+* start the motor and drop the main sail and furl the headsail
+* by the time you are abeam snapper Island you should have located the marker panels 
+and established yourself on the leads with a heading of 280 deg T (or 267 deg M). 
+* observe the conditions on the bar -- abort and stand off if conditions look too dangerous
+* If unable to cross the bar, pick up a mooring at North Head (or anchor behind Snapper Island) and
+wait for conditions to improve
+* if ok, proceed slowly across the bar keeping the vessel at 90 degrees to any following sea
+* keep sufficient water speed to maintain steerage (especially if the tide is flooding)
+* once across the bar stay on the leads until you are about 50 off the rock wall then 
+* turn to staboard and steer for the starboard lateral (green) mark off the stone wall on the northern side of the channel
+* leave this and other starboard lateral (green) marks to starboard  as you motor up the river (beware the sand bank close
+to starboard)
+* maintain sufficiuent speed through the water to maintain steerage (remember there may be as much as a 4 knots of flood current)
+
+
+### Leaving the river
+
+When leaving the river to go into the Bay
+
+* ensure everyone is wearing a PFD -- stiff fines apply and you will be prosecuted for any failures in this regard
+* proceed under motor -- do not put up sails in the river
+* having departed the marina, motor down the river keeping to the right of the channel (but not too close to the rock wall)
+* maintain sufficiuent speed through the water to maintain steerage (remember there may be as much 
+as a 4 knots of ebb current)
+* as you approach the end of the rock wall, observe the state of the bar. If it looks dangerous, abort and return to the 
+marina
+* if continuing motor 50m past the end of the rock wall and make a sharp turn to startboard making your heading due south
+* wait until the lead markers appear then steer to port to establish your new heading on the leads
+* Proceed slowly across the bar (maintaining enough speed to maintain steerage)
+* Remain on the leads until you are clear of Snapper Islands to starboard
+
 
 ## Clyde River Bridge
 The bridge over the Clyde River at Batemans Bay is a local icon. It's lifting span allows some sailing vessels to access
@@ -122,6 +186,10 @@ bridge becomes occluded by North Head, you may be in danger of going aground on 
 
 Lives have been lost in this area. Please take extreme care.
 
+## Long beach
+
+There are bommie s at the Eastern end of Long Beach that can be tricky.
+
 ## Snapper Is to Observation point
 
 The area between Snapper Island and Observation point is shallow and dangerous -- stay clear.
@@ -138,14 +206,33 @@ unlit and care must be taken when entering or leaving the bay (from/to) the sout
 
 ## Casey's Beach Reef
 
-Casey's Beach is a lovely spot to anchor for an while expecially in a westerly. Beware the adminreef off the beach. It is marked
-with a West cardinal mark indicating clear water to the west. It is best to stay on the north side of the cardinal mark when
-approaching the beach. Generally stand well off the beach as the bottom shallows quickly.
+Casey's Beach is a lovely spot to anchor for an while expecially in a westerly. Beware the adminreef off the beach. 
+It is marked with a West cardinal mark indicating clear water to the west. It is best to stay on the north side 
+of the cardinal mark when approaching the beach. Generally stand well off the beach as the bottom shallows quickly.
+
+## Anchorages
+
+Good anchorages nearby include 
+
+* in the Lee of Broulee Island, 
+* Maloneys Beach 
+* Snapper Island (there is a public mooring here)
+
+If planning on Anchoring at the East end of Maloney Beach check weather forecast carefully. 
+If there is any South in the forecast forget it.
 
 ## Marine Rescue Batemans Bay
 
 Marine Rescue Batemans Bay ([website here](http://www.marinerescuebatemansbay.com/))is available on VHF 16 and can help with anything from emergency response to simple advise as to
 the state of the bar. Call them up on VHF16 or phone (02) 4472 3060 or mobile 0488 723 070.
+
+## Fishing
+
+* There are extensive marine reserves in the Bay where fishing is prohibited or restricted. Ensure you know where these
+area are before fising
+* See the [government website](http://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks/batemans-marine-park) for more information on the Batemans Bay Marine Park
+* refer to the [Marine Park zoning map](http://www.dpi.nsw.gov.au/__data/assets/pdf_file/0008/656288/bmp-zoning-map.pdf)
+* Alway have a current fising licence
 
 ## SARWATCH
 
@@ -161,11 +248,17 @@ There is a SOP describing the procedure for reporting to Maritime Rescue.
 
 Include here some contact numbers.
 
+* TODO
 
-Richard. $45 --  
-Allocation BM number
-1.2m -- marinerescuebatemansbay.com.au
-phone app -- 
+## Experienced Bay Skippers
+
+The following members have good local knowledge of the Bay
+
+* Simon Dunlop
+* Garth Brice
+* John Rowling
+* Steven Ring
+* others?? Let's ask around
 
 
 
