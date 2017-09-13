@@ -65,8 +65,8 @@ crossing. Also check to see if depth of bar has changed (Marina manager Damon wi
 Any river bar crossing is a potentially dangerous activity and requires good seamanship from both skipper and Crew. Here 
 are some general rules about crossing the bar at Batemans Bay
 
-* Check tides to ensure adequate water for Namadgi 3's 2.2m draft
-* The bar is best cross at high tide, slack water 
+* Check tides to ensure adequate water for Namadgi 3's 2.1m draft
+* The bar is best crossed on the flood approaching high tide 
 * Make allowance the height of the sea waves on the bar. A 1m sea across the bar will reduce the effective water depth by 0.5m
 * Approach and depart the bar along the marked leads -- see notes above
 * NSW law requires ALL crew to wear PFDs while crossing the bar in either direction. This is policed 
@@ -236,36 +236,41 @@ area are before fising
 
 ## SARWATCH
 
-Namadgi is registerd with Bateman Bay Marine Rescue and has been allocated the VHF radio callsign of ``BM ???``.
+Namadgi is registerd with Marine Rescue New South Wales and has been allocated the VHF radio callsign of ``SY690``.
 
 Skippers taking Namadgi 3 out onto the Bay or further afield are *strongly advised* to log your intended passage with Marine
-Rescue Batemans Bay who will then maintain a SARWATCH on you until your return. If the event that you fail to return (or report daily) they
-will activate procedures to ensure your safety. This may include raising a full scale search and rescue incident.
+Rescue Batemans Bay who will then maintain a SARWATCH on you until your return. If the event that you fail 
+to return (or report daily) they
+will activate procedures to ensure your safety. This may include raising a full scale search and rescue incident. 
+When logging onto Marine Rescue be prepared to supply the following information
+
+1. Callsign ``SY 690``
+1. Current location
+1. Sailing plan
+1. Person on board
+1. Intended return date/time
+1. Next reporting time (MRBB will request that you report to them daily)
 
 There is a SOP describing the procedure for reporting to Maritime Rescue.
 
+## Operations manager
+
+It is CORC policy to appoint an operations manager for all bookings where Namadgi 3 is operating outside of Pittwater.
+An operations manager shall be appointed depending on the start date of the booking:
+
+* Sept 2017 - Steven Ring
+* October 2017 - Simon Dunlop
+* November 2017 - Michael Martin
+* December 2017 - Garth Brice
+
+Skippers are required to make contact with the operations manager
+
+1. Prior to departure to discuss sail plan, PFD allocation, bar crossing times, etc
+1. Daily position reports and anchorage planning
+1. Final report upon return
+
 ## Local contact numbers
 
-Include here some contact numbers.
-
-* TODO
-
-## Experienced Bay Skippers
-
-The following members have good local knowledge of the Bay
-
-* Simon Dunlop
-* Garth Brice
-* John Rowling
-* Steven Ring
-* others?? Let's ask around
-
-
-
-
-
-
-
-
-
-
+* Marine Rescue Batemans Bay -- (02) 4472 3060
+* Batemans Bay Marina -- (02) 4472 9853
+* Simon Dunlop --  0412 262 933
