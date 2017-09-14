@@ -153,12 +153,12 @@ before leaving
 way and steerage.
 * All crew to wear life jackets before departure from the berth
 * Brief the crew on these procedures before departure
-* Clear the marina before raising any sail (except in an engine fail emergency)
+* Clear the river bar before raising any sail (except in an engine fail emergency)
 
 ### When entering
 
 * Watch for traffic exiting the marina -- standoff if in doubt -- do not force a presumed right of way
-* Drop all sails before attempting to enter the marina
+* Drop all sails before attempting to enter the marina (you should have dropped them before crossing the bar)
 * Watch (fore and aft) for traffic in the river before turning into the gap in the wall
 * Anticipate the tidaly flow -- when N3's keel is turn across the flow expect N3 to start moving sideways with respest to the gap 
 in the wall
@@ -172,8 +172,7 @@ Beware of the sand bars on the northern side of the river channel. These extend 
 
 ## Raising and lowering sails
 
-Sails should not be raised until over the bar on the way out and before crossing on the way in 
-unless you are confident of where the sandbar lies outside the marina entrance.
+Sails should not be raised until over the bar on the way out and before crossing the bar on the way in.
 
 ## Acheron Ledge
 
