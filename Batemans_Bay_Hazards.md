@@ -65,6 +65,7 @@ crossing. Also check to see if depth of bar has changed (Marina manager Damon wi
 Any river bar crossing is a potentially dangerous activity and requires good seamanship from both skipper and Crew. Here 
 are some general rules about crossing the bar at Batemans Bay
 
+* Use a charted depth of 0.8m when computing the best time to cross
 * Check tides to ensure adequate water for Namadgi 3's 2.1m draft
 * The bar is best crossed on the flood approaching high tide 
 * Make allowance the height of the sea waves on the bar. A 1m sea across the bar will reduce the effective water depth by 0.5m
@@ -132,6 +133,12 @@ the marina and the township.
 
 Avoid this area except during slack tide.
 
+## In the marina
+
+* Observe the maximum speed limit of 4kts
+* Depths around the fuel wharf are uncertains -- have at least 1.0m of tide before attempting to refuel
+* Beware shallow areas at the southern (gangway) end of the fuel wharf
+
 ## Marina Entrance
 The Batemans Bay Marina is accessed via a relatively narrow gap in the rock wall that runs east/west along the river's southern 
 side. Entering and leaving the marina can be hazardous.
@@ -175,10 +182,11 @@ substantial reef known as Acheron Ledge, extends south into the bay for a consid
 Rocks at the end of the reef break at low tide. Uncomfortable seas can develop in the vacinity of the reef.
 
 Acheron Ledge is a significant hazard with many local vessels having met with disaster on the ledge over the years. Great
-care is required to avoid this hazard. Some computerised charts show cardinal marks around the reef. Legend has it that these were blown away in storms several 
-years ago and, for some unknown (and possibly stupid reason) they have never been replace.
+care is required to avoid this hazard. Some computerised charts show cardinal marks around the reef. 
 
-Acheron Ledge is shallow, dangerous, unlit and unmarked. It is a hazard to vessels entering the bay from the North and to those
+[Notice to Mariners 1016-1057](http://www.thenavigationcentre.com.au/Notice%20to%20Mariners/2016/edition_19_1012-1057_2016.pdf) indicates that lit cardinal marks were installed in October 2016. 
+
+Acheron Ledge is shallow, dangerous. It is a hazard to vessels entering the bay from the North and to those
 using the bays and beaches along the northern side. 
 
 Local advice is to keep the Clyde River Bridge structure in view while navigating the northern part of the Bay. If the
