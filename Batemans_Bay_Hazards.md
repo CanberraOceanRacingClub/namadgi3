@@ -4,7 +4,7 @@ Namadgi 3 will be located at the Batemans Bay Marina from September to December 
 members the opportunity access the boat with a short drive from Canberra. It also offers some 
 lovely cruising spots up and down the NSW coast.
 
-The Committee has noted that Bateman's Bay is open waters and presents a range of challenges to skippers and
+The Committee has noted that Bateman's Bay is classified as *open waters* and presents a range of challenges to skippers and
 crew beyond those found in Pittwater.
 
 The purpose of these notes is to alert Members to a number of navigational challenges that may be met while 
@@ -12,14 +12,14 @@ sailing Namadgi 3 in and around Bateman's Bay
 
 ## Open Waters of the Bay
 
-Pittwater is a well protected area in which we have enjoy cruising without significant seas or swell.
+Pittwater is a well protected area in which we have enjoyed cruising without significant seas or swell.
 Bateman's Bay however, is classified 
-as open waters. It offers minimial protection from ocean swells and sea waves.
+as *open waters* offering minimial protection from ocean swells and sea waves.
 
 * do not venture into the Bay if you are concerned about your open water seamanship skills
 * consider inviting a member who is experienced with Bay Sailing to help you on your first outing -- a few names
 are listed below
-* be prepared to deal with sea sickness amongst the crew
+* be prepared to deal with sea sickness amongst your crew
 * obtain weather forcasts and take early action to avoid being caught in a Southerly change or strong NE blow common
 during summer afternoons
 
