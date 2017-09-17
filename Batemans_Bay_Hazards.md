@@ -52,7 +52,7 @@ It's charted depth is only 0.8m however after recent dredging locals report the 
 It's shallow depth and the likelyhood of breaking waves in heavy seas means that the bar must be treated with 
 the utmost respect.
 
-* If unable to cross the bar when returning from sea, pick up a mooring at North Head (or anchor behind Snapper Island) and
+* If unable to cross the bar when returning from sea, pick up a mooring at Square Head (or anchor behind Snapper Island) and
 wait for conditions to improve
 
 The bar is generally well marked but does move. Consult with a locals to see if the leads are set correctly before
@@ -85,7 +85,7 @@ When approaching the Bar from Sea:
 * by the time you are abeam snapper Island you should have located the marker panels 
 and established yourself on the leads with a heading of 280 deg T (or 267 deg M). 
 * observe the conditions on the bar -- abort and stand off if conditions look too dangerous
-* If unable to cross the bar, pick up a mooring at North Head (or anchor behind Snapper Island) and
+* If unable to cross the bar, pick up a mooring at Square Head (or anchor behind Snapper Island) and
 wait for conditions to improve
 * if ok, proceed slowly across the bar keeping the vessel at 90 degrees to any following sea
 * keep sufficient water speed to maintain steerage (especially if the tide is flooding)
@@ -189,7 +189,7 @@ Acheron Ledge is shallow, dangerous. It is a hazard to vessels entering the bay 
 using the bays and beaches along the northern side. 
 
 Local advice is to keep the Clyde River Bridge structure in view while navigating the northern part of the Bay. If the
-bridge becomes occluded by North Head, you may be in danger of going aground on Acheron Ledge.  
+bridge becomes occluded by Square Head, you may be in danger of going aground on Acheron Ledge.  
 
 Lives have been lost in this area. Please take extreme care.
 
@@ -222,7 +222,7 @@ of the cardinal mark when approaching the beach. Generally stand well off the be
 Good anchorages nearby include 
 
 * in the Lee of Broulee Island, 
-* Maloneys Beach 
+* Maloneys Beach (there is a public mooring here) 
 * Snapper Island (there is a public mooring here)
 
 If planning on Anchoring at the East end of Maloney Beach check weather forecast carefully. 
