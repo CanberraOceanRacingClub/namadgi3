@@ -281,3 +281,8 @@ Skippers are required to make contact with the operations manager
 * Marine Rescue Batemans Bay -- (02) 4472 3060
 * Batemans Bay Marina -- (02) 4472 9853
 * Simon Dunlop --  0412 262 933
+
+## Other information
+
+* [Chart of the bay](http://www.rms.nsw.gov.au/documents/maritime/usingwaterways/maps/boating-maps/12c-batemans-bay-coastal.pdf) from NSW Roads and Maritime
+* [Navionics chart of the bay](https://webapp.navionics.com/?lang=en#boating@10&key=xw~xEcuys%5B)
