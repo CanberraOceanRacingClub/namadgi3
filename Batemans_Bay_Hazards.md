@@ -56,7 +56,7 @@ the utmost respect.
 wait for conditions to improve
 
 The bar is generally well marked but does move. Consult with a locals to see if the leads are set correctly before
-crossing. Also check to see if depth of bar has changed (Marina manager Damon will be very helpful). There is also a 
+crossing. Also check to see if depth of bar has changed (Marina manager Daimon will be very helpful). There is also a 
 [bar webcam](http://www.rms.nsw.gov.au/maritime/using-waterways/web-cameras/batemans-bay.html) that may be worth checking before you venture out.
 
 
@@ -85,7 +85,7 @@ When approaching the Bar from Sea:
 * by the time you are abeam snapper Island you should have located the marker panels 
 and established yourself on the leads with a heading of 280 deg T (or 267 deg M). 
 * observe the conditions on the bar -- abort and stand off if conditions look too dangerous
-* If unable to cross the bar, pick up a mooring at Square Head (or anchor behind Snapper Island) and
+* If unable to cross the bar, pick up a mooring at Square Head (or Snapper Island) and
 wait for conditions to improve
 * if ok, proceed slowly across the bar keeping the vessel at 90 degrees to any following sea
 * keep sufficient water speed to maintain steerage (especially if the tide is flooding)
