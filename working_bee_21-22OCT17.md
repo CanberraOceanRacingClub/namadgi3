@@ -7,6 +7,7 @@ A working bee to fix up the Elan ready for membership bookings in Pittwater/Sydn
 * Peter O
 * Jack
 * Paul McD (possible)
+* Dee
 
 ## Broad plan
 
