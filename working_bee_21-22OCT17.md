@@ -30,3 +30,25 @@ A working bee to fix up the Elan ready for membership bookings in Pittwater/Sydn
 
 Here is the [working bee list](https://github.com/CanberraOceanRacingClub/namadgi3/labels/Working%20bee) generated from
 issues with the ``working bee`` label.
+
+## Some guidelines
+
+This from the committee:
+
+```
+We discussed at the Committee meeting last night just to be legal meeting Roads and Maritime laws. For that I think we only need:
+
+Re-use 6 x Marlin PFDs without harnesses. They are currently in self test - no cost
+V sheet
+Bailing bucket
+Torch
+Flare kit – check dates
+EPIRB – still fitted
+VHF Radio - still fitted
+ 
+A lot of the other stuff on my list hopefully can be found in the store or scrounged or is not needed for a basic legal requirement.
+I’m still seeking feedback from BME on the state of the solar panels. Currently they do not work.
+Cheers,
+Dave
+
+```
