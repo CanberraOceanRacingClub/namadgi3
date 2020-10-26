@@ -282,6 +282,11 @@ Skippers are required to make contact with the operations manager
 * Batemans Bay Marina -- (02) 4472 9853
 * Simon Dunlop --  0412 262 933
 
+## Original text
+
+The original text of this file is stored [here on GitHUB](https://github.com/CanberraOceanRacingClub/namadgi3/blob/master/Batemans_Bay_Hazards.md) and is 
+written in plain text with [Markdown markup](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 ## Other information
 
 * [Chart of the bay](http://www.rms.nsw.gov.au/documents/maritime/usingwaterways/maps/boating-maps/12c-batemans-bay-coastal.pdf) from NSW Roads and Maritime
