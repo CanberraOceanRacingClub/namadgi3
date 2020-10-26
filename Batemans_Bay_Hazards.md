@@ -1,4 +1,4 @@
-# Navigating Batemans Bay
+# Hazards of Batemans Bay
 
 Namadgi 3 will be located at the Batemans Bay Marina from September to December 2017. This affords CORC 
 members the opportunity access the boat with a short drive from Canberra. It also offers some 
