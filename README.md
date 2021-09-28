@@ -1,2 +1,4 @@
 # namadgi3
-Namadgi 3 documents, maintenance and SOPs
+Maintenance management system for Namadgi 3
+
+
