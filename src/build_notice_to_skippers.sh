@@ -17,5 +17,5 @@ from_date=2099-01-01
 echo $from_date
 echo $OAUTH_KEY
 cd meeting_minutes
-./gradlew run --args="-u $user -r $repo -o $OAUTH_KEY -f $from_date -l Notice -b -c -n -i -h 'Notice to Skippers'"
+./gradlew run --args="-u $user -r $repo -o $OAUTH_KEY -f $from_date -l Notice -b -c -n -i -h 'Notice to Skippers' -p /tmp/notice2skippers.pdf"
 cd -
