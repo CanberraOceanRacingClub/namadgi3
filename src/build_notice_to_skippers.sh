@@ -4,8 +4,10 @@
 #
 # This script assumed:
 #
-# * the OAUTH key for the Namadgi repository is contained in a .secrets file in this director
-# * the project meeting_minutes has been installed as a subdirectory of this directory
+# * the OAUTH key for the Namadgi repository is contained in a .secrets file in this directory
+# * the project meeting_minutes has been installed as a subdirectory of this directory (use ``git clone git@github.com:smr547/meeting_minutes.git``)
+# * the [rclone](https://rclone.org/) program has been installed on this host
+# * the Google Drive API OAUTH key has been registered with [rclone](https://rclone.org/) on this host
 #
 #--------------------------------------------------
 #
