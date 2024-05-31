@@ -6,3 +6,4 @@
 
 #
 ./build_notice_to_skippers.sh
+./build_working_bee_tasks.sh
